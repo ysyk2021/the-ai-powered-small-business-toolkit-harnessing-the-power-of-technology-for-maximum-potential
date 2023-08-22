@@ -1,5 +1,4 @@
-Types of AI for Small Businesses
-==================================================================================
+
 
 AI technology offers many benefits for small businesses, but it is important to understand the different types of AI that are relevant for small business operations. In this chapter, we will explore some of the most common types of AI used by small businesses.
 

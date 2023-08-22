@@ -1,5 +1,4 @@
-Chapter 2: Understanding AI for Small Businesses
-================================================
+
 
 To harness the power of AI for small businesses, it is important to have a basic understanding of what AI is and how it works. In this chapter, we will provide a historical overview of AI for small businesses, discuss the types of AI that are relevant for small businesses, and explain how AI works in the context of small business operations.
 

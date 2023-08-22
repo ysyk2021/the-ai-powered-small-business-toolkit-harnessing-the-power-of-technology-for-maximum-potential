@@ -1,5 +1,4 @@
-Chapter 7: Managing AI for Small Businesses
-===========================================
+
 
 Managing AI technology in small businesses requires careful attention to several key factors, including data management, transparency and accountability, and potential bias. In this chapter, we will explore strategies for effective management of AI systems in small businesses.
 

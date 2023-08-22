@@ -1,5 +1,4 @@
-Overcoming Resistance to Change
-================================================================================
+
 
 Resistance to change is a common barrier to implementing AI technology in small businesses. In this chapter, we will explore some strategies for overcoming resistance to change and successfully implementing AI technology.
 
