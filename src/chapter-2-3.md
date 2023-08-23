@@ -1,5 +1,4 @@
 
-
 To harness the power of AI technology for small business operations, it is important to understand how AI works. In this chapter, we will explore the basics of how AI works for small businesses.
 
 Data Analysis

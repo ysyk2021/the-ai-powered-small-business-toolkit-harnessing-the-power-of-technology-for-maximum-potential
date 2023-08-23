@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) technology has a rich history that dates back several decades. In this chapter, we will provide a historical overview of AI for small businesses.
 
 Early Days of AI for Small Businesses

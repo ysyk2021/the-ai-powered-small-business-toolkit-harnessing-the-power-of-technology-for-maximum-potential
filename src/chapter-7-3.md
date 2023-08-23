@@ -1,5 +1,4 @@
 
-
 One of the biggest concerns surrounding AI technology is the potential for bias in decision-making processes. In this chapter, we will explore some strategies for managing AI systems in small businesses and addressing potential bias.
 
 Understanding Bias in AI Systems
