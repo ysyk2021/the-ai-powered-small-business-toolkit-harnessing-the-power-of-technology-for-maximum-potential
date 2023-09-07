@@ -8,3 +8,7 @@ Throughout this book, we will cover a range of topics related to AI-powered smal
 Whether you are a small business owner or entrepreneur looking to stay ahead of the curve, or simply interested in learning about the latest trends in small business technology, this book will provide valuable insights and practical strategies for harnessing the power of AI for maximum potential. So, let's dive in and explore the exciting world of AI-powered small business solutions!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
