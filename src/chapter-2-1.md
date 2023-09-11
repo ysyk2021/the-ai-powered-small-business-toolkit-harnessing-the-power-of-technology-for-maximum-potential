@@ -1,5 +1,4 @@
-Chapter: Historical Overview of AI for Small Businesses
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will take a historical journey to explore the evolution of AI for small businesses. From its inception to the present day, we will examine the milestones, advancements, and applications of AI that have revolutionized small business operations. Gain insights into how AI has transformed the landscape and empowered small businesses to reach their maximum potential.
 

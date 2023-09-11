@@ -1,5 +1,4 @@
-Chapter: How AI Works for Small Businesses
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the inner workings of AI and how it can be effectively utilized by small businesses. From understanding the fundamental concepts to practical applications, we will delve into the mechanisms that drive AI and its potential to maximize the capabilities of small businesses.
 

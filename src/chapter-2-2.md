@@ -1,5 +1,4 @@
-Chapter: Types of AI for Small Businesses
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore different types of AI that can be beneficial for small businesses. From basic automation to advanced machine learning techniques, understanding these types of AI will help small businesses harness the power of technology for maximum potential.
 

@@ -1,5 +1,4 @@
-Chapter: Legal Considerations
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the legal considerations that small businesses need to address when adopting AI technologies. As AI becomes more prevalent, it is essential to consider potential legal risks and ensure compliance with relevant regulations. This chapter provides an overview of key legal considerations and offers strategies for mitigating risks.
 

@@ -1,5 +1,4 @@
-Chapter: Overcoming Resistance to Change
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for small businesses to overcome resistance to change when adopting AI-powered technologies. Implementing new technologies can be met with skepticism and resistance from employees, stakeholders, and even customers. It is essential for small businesses to address these challenges effectively to harness the power of technology for their maximum potential.
 

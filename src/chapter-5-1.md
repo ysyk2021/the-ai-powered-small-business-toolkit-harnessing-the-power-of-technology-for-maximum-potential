@@ -1,5 +1,4 @@
-Chapter: Customer Service and Support
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of customer service and support in the context of AI-powered small businesses. Providing exceptional customer service is crucial for building strong relationships with customers and ensuring their satisfaction. We will discuss key considerations and strategies for leveraging AI technologies to enhance customer service and support capabilities.
 
